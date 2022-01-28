@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("F2.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: navy; 
+      font-size: 40px;
+  }
+  canvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;border-color: turquoise;
+  }
+
+  button {
+    background-color: gold;
+    border: none;
+    color: black;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
